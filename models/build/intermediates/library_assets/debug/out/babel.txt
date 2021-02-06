@@ -1,0 +1,5 @@
+compost
+garbage
+hazardous
+not-trash
+recycle
